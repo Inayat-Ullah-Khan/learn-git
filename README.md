@@ -1,3 +1,3 @@
 # Website
 
-- I have downloaded this website.
+- This is a project for practice.
